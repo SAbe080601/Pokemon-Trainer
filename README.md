@@ -8,7 +8,7 @@ release back into the wild.
 
 ## Getting Started with Running Pokemon-Trainer
 
-## Intsall Node.js on local Machine globally
+## Install Node.js on local Machine globally
 ## Install and Run Redis on local Machine globally
 
 ## In Server and Client Root make sure to Install required dependencies
