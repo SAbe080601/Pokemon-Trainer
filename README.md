@@ -9,7 +9,7 @@ specific data about an individual pokemon by clicking on their images.
 
 ## Getting Started with Running Pokemon-Trainer
 
-## Check if PokemonAPI URL has not changed (https://pokeapi.co/docs/v2), if it changed edit data functions accordingly:
+## Check if PokemonAPI URL has not changed (https://pokeapi.co/docs/v2), if it changed edit URLs in data functions accordingly:
 ### `./server/data.js - await axios.get( New URL )`
 
 ## Install Node.js on local Machine globally
