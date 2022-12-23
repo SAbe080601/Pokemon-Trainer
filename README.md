@@ -4,7 +4,8 @@ Welcome to Shinya Abe's Pokemon Trainer App Utilizing React.js and
 Redux on the client and Express.js, Node.js, and Redis on the server.
 This application allows a single user to Add and remove trainers, and 
 pick pokemon to either catch and add to a selected trainer's collection, or 
-release back into the wild.
+release back into the wild. Users also have the ability to view 
+specific data about an individual pokemon by clicking on their images.
 
 ## Getting Started with Running Pokemon-Trainer
 
