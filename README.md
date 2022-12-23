@@ -8,6 +8,9 @@ release back into the wild.
 
 ## Getting Started with Running Pokemon-Trainer
 
+## Check if PokemonAPI URL has not changed (https://pokeapi.co/docs/v2), if it changed edit data functions accordingly:
+### `./server/data.js - await axios.get( New URL )`
+
 ## Install Node.js on local Machine globally
 ## Install and Run Redis on local Machine globally
 
